@@ -1,2 +1,3 @@
-git clone 
+git clone
+
 cd inventory_management
